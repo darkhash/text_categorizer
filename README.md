@@ -9,7 +9,7 @@
 
 - clone this repo to local directory
 - Download https://github.com/mit-nlp/MITIE/releases/download/v0.4/MITIE-models-v0.2.tar.bz2
- place total_word_feature_extractor.datin the same path as the text_categorizer.ipynb file
+ place ```total_word_feature_extractor.dat``` in the same path as the ```text_categorizer.ipynb``` file
 - run the notebook file in jupyter
 
 ``` jupyter notebook text_categorizer.ipynb ```
